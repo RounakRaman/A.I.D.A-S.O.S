@@ -10,7 +10,7 @@ import streamlit as st
 from streamlit_chat import message
 import os
 
-token="XQgel1q5j_H4_lRDJFroLCK5k54tmNwG26FvvBiLLoh7rxE9T6q4URCl5uWRpYDWLTXf9w."
+token=st.secrets.BARD_API_KEY.Token
 st.title("A.I.D.A")
 st.markdown("---")
 st.subheader("Hey Buddy! I am A.I.D.A your anytime companion.Please feel free to share or ask me anything")
