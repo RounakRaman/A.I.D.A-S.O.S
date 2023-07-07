@@ -5,3 +5,9 @@ streamlit_chat
 deep_translator
 bs4
 pip==23.1.2
+plotly
+scipy
+pandas
+Flask
+flask-cors
+pyforest
