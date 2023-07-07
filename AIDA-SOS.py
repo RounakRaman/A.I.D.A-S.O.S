@@ -1,9 +1,7 @@
 import bardapi.core
 
 
-def main():
-    if __name__ == '__main__':
-        main()
+
 from bardapi import Bard
 
 import streamlit as st
@@ -87,7 +85,7 @@ st.markdown("---")
 def change_in_state():
     state=False
 
-state=st.checkbox(label="Need professional help?",value=False,on_change=change_in_state)
+state=st.checkbox(label="Need professional help?",value=False)
 
 if state:
     st.write("[Click here to get a Professonial Counsellor](https://pib.gov.in/PressReleasePage.aspx?PRID=1652240)")
