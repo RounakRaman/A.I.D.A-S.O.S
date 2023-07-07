@@ -60,10 +60,10 @@ def input ():
 
 
 if 'generated' not in  st.session_state:
-    st.session_state['generated'] = []
+    st.session_state['generated'] = [" "]
 
 if 'past' not in st.session_state:
-    st.session_state['past'] = []
+    st.session_state['past'] = [" "]
 
 user_input = input()
 
