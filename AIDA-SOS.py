@@ -25,9 +25,9 @@ st.subheader("Hey Buddy! :wave: I am A.I.D.A your anytime companion.")
 
 st.markdown("""
 <style>
-.element-container.css-459c3p.esravye2{
-
-
+.css-erpbzb.e1ewe7hr3
+{
+visibility:hidden;
 }
 .css-erpbzb.e1ewe7hr3
 {
@@ -39,10 +39,10 @@ visibility:hidden;
 }
 </style>
 """,unsafe_allow_html=True) #removing hamburger on streamlit page
-# .css-erpbzb.e1ewe7hr3
-# {
-# visibility:hidden;
-# }
+.css-erpbzb.e1ewe7hr3
+{
+visibility:hidden;
+}
 
 st.markdown("""
 <style>
