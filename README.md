@@ -1,3 +1,5 @@
+![image](https://github.com/RounakRaman/A.I.D.A-S.O.S/assets/97462136/2004619b-c5d9-459a-b902-42b6af3eba50)
+
 # A.I.D.A-S.O.S
 
 Welcome to A.I.D.A-S.O.S, an innovative app developed by expert AI/ML developers to provide support to individuals struggling with mental health issues, specifically depression and anxiety. A.I.D.A (Artificial Intelligence for Depression and Anxiety) is an umbrella organization committed to leveraging the power of artificial intelligence and machine learning to improve mental health outcomes globally.
@@ -13,7 +15,7 @@ Mental health issues, such as depression and anxiety, continue to pose a signifi
 
 We believe it is crucial to raise awareness about mental health and bridge the gap in available resources. To highlight the gravity of the situation, we recommend watching the Mohak Mangal video on depression in India: 
 
-https://www.youtube.com/watch?v=9384kTbvf64&t=1s
+![video by Mohak Mangal](https://www.youtube.com/watch?v=9384kTbvf64&t=1s)
 
 # Our Vision:
 At A.I.D.A, we envision a future where mental health is prioritized and accessible to all. We strive to create a community where individuals can openly discuss their mental health concerns without fear of judgment or stigma. Through A.I.D.A-S.O.S, we aim to provide a user-friendly platform that empowers users to take control of their mental well-being and seek the support they need.
