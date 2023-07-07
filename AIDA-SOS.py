@@ -55,7 +55,7 @@ def generated_response (prompt):
     return response
 
 def input ():
-    input_text=st.text_input("","Hey A.I.D.A I want to talk to you.",key='Input')
+    input_text=st.text_input(" ","Hey A.I.D.A I want to talk to you.",key='Input')
     return input_text
 
 
