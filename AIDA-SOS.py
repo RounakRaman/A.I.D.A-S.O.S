@@ -39,10 +39,6 @@ visibility:hidden;
 }
 </style>
 """,unsafe_allow_html=True) #removing hamburger on streamlit page
-.css-erpbzb.e1ewe7hr3
-{
-visibility:hidden;
-}
 
 st.markdown("""
 <style>
