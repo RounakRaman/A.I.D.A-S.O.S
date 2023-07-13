@@ -1,4 +1,7 @@
 import bardapi.core
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 
@@ -10,8 +13,9 @@ import os
 import streamlit.components.v1 as com
 
 
-
-Token=st.secrets.BARD_API_KEY.Token
+token=os.getenv('BARD_API_KEY')
+print(token)
+Token=token
 
 st.title("A.I.D.A")
 
