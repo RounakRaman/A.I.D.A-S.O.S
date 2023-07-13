@@ -11,3 +11,4 @@ pandas
 Flask
 flask-cors
 pyforest
+python-dotenv
