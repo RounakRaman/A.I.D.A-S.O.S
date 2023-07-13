@@ -14,6 +14,7 @@ import streamlit.components.v1 as com
 
 
 token=os.getenv('BARD_API_KEY')
+bard = Bard(timeout=10)
 
 Token=token
 
@@ -55,7 +56,7 @@ background-size: cover;
 
 
 def generated_response (prompt):
-    response = Bard(token=Token).get_answer(prompt)['content']
+    response = bard(token=Token).get_answer(prompt)['content']
     return response
 
 def input ():
