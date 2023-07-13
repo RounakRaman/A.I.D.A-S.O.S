@@ -14,7 +14,7 @@ import streamlit.components.v1 as com
 
 
 token=os.getenv('BARD_API_KEY')
-print(token)
+
 Token=token
 
 st.title("A.I.D.A")
