@@ -1,11 +1,10 @@
-import bardapi.core
+from bardapi.core import Bard
 from dotenv import load_dotenv
 
 load_dotenv()
 
 
 
-from bardapi import Bard
 
 import streamlit as st
 from streamlit_chat import message
